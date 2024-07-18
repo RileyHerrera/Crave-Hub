@@ -5,4 +5,4 @@ Coding languages used:
 HTML, JavaScript
 
 Team members:
-Juan Benazar, Mikaela Montaos, Riley Herrera
+Mikaela Montaos, Riley Herrera
